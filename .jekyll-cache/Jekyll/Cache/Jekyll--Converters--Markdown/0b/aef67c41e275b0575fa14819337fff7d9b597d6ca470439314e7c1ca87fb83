@@ -1,0 +1,104 @@
+I""<h1 id="why-we-didnt-make-it-to-y-combinator-w20-batch">Why We Didn’t Make It To Y Combinator (W20 batch)</h1>
+
+<p>Just a few weeks ago, I was sitting in a small meeting room in central Paris having Gustaf, Aaron, and Stephanie from YC asking how <a href="https://www.webarxsecurity.com/">WebARX</a> is going to be the next big thing in cyber-security you’re all going to hear about.</p>
+
+<p>Y Combinator is getting around 50,000 applications per batch, so for us, being among the few ones to get to the interview was already a massive validation.</p>
+
+<h2 id="a-short-history-of-webarx">A short history of WebARX</h2>
+
+<p>Before jumping into it, I will give you some context. We started working on WebARX full-time at the end of 2017 to prevent security incidents on web apps and to give a better overview of the security risk posed by third-party code (plugins/themes) within the sites.</p>
+
+<p>We raised our first angel investment at the end of 2017 while we participated in a cybersecurity-focused business accelerator in London (Cylon). During the time we tested multiple approaches.</p>
+
+<p>At some point, we even worked with governments (Computer Emergency Response Teams aka CERTs) and provided them information about compromised sites and about the possible attackers.</p>
+
+<p>Fast forward to July 2018, we launched the MVP and got our first few thousand users on board.</p>
+
+<h2 id="flatlined">Flatlined</h2>
+
+<p><img src="https://cdn-images-1.medium.com/max/4760/1*JxjmUHCBxc6He7dpwZb4dg.png" alt="MRR from July 2018 to July 2019" /><em>MRR from July 2018 to July 2019</em></p>
+
+<p>After the launch in mid-2018, we were super hyped (obviously) and did all we could to get as much feedback from the customers as possible. We always tried to over-deliver.</p>
+
+<p>Over the next 6 months, we heavily extended the functionality of our platform, but it didn’t seem to make that much of a difference. We tried different marketing strategies, better communication, and tried to come out with new features which would then make the product “so much better”.</p>
+
+<p>In the end, every time we added something new, another cool feature request came in to make the previous feature even better.</p>
+
+<h2 id="taking-a-step-back">Taking a step back</h2>
+
+<p>We were so into solving all of our customer’s problems that in the end, we were close to drift away from the original problem we set our sails to.</p>
+
+<p>We started focusing on the biggest issue around the problem we are solving, which is the massive amount of third-party software components in web apps and their security.</p>
+
+<p>The most popular platform we support, WordPress, has also the biggest problem with vulnerabilities. <a href="https://medium.com/@oliversild/third-party-components-the-largest-threat-to-web-security-23ac4714fd99">98% of security vulnerabilities within the WordPress ecosystem are coming from third-party plugins/themes.</a></p>
+
+<h2 id="yc-startup-school">YC Startup School</h2>
+
+<p>On the 22nd of July 2019, we decided to go full-in with the YC Startup School thingy. I really didn’t have any expectations, but the only thing I had in mind was that I will squeeze every drop out of it.</p>
+
+<p>Over the next 10 weeks, I rebooted my thinking. I literally started from the basics of *“how to startup” *and went over the great list of materials YC Startup School provides during the program.</p>
+
+<p>We set up proper OKR’s and KPIs to prioritize everything from development to sales and marketing and every Monday we went over the same thing and checked if we’re moving in the right direction.</p>
+
+<p>I even took most of the customer support to myself, so I could just get as much feedback as possible and figure out what do they actually value and how our customers think.</p>
+
+<p>Every week we had the group session with other companies from Startup School program where we discussed our progress and what we have learned, it was a great opportunity to test different messages and see how others get it.</p>
+
+<h2 id="focus--growth">Focus = Growth</h2>
+
+<p><img src="https://cdn-images-1.medium.com/max/4844/1*_gCEVXhRBXRoyBHC3g9zmw.png" alt="MRR from July 2018 to November 2019 (much better, right?)" /><em>MRR from July 2018 to November 2019 (much better, right?)</em></p>
+
+<p>Eventually, turning our focus completely into solving the third-party component security risk helped us to re-prioritize development, simplify our messaging and ultimately made the product solve a known and simply understandable issue.</p>
+
+<p>With such a drastic change in results, we knew that we are doing something right. We have the momentum and applying to YC was a logical step as the US is also our main market with over 40% of our customers being based there.</p>
+
+<h2 id="applying-to-yc">Applying to YC</h2>
+
+<p>After the Startup School program, we decided to send an application to Y Combinator. We also reached out to previous YC alumni and asked for tips and feedback.</p>
+
+<p>When filling the application, we really just focused on telling everything we want with as few words as possible. Just so it would be on-point and the people who read them (50,000 applications, really?) will have a quick understanding of what we do. Then we recorded our 1-minute video and hit send.</p>
+
+<h2 id="the-interview">The Interview</h2>
+
+<p><img src="https://cdn-images-1.medium.com/max/3780/1*QNx0mfQXZdHdeNDASyVgjw.png" alt="Invitation to the interview." /><em>Invitation to the interview.</em></p>
+
+<p>We waited for a month or so, but eventually, we got the email above. We had approx. 2 weeks to prepare for the interview. What we did mainly was just talking to alumni and really went into details about every aspect of our company.</p>
+
+<p>Some suggested us to do as many mock interviews as possible, others said completely opposite and suggested us to just focus on the natural conversation.</p>
+
+<p>The interview itself was for 10 minutes and it goes really fast. It’s super straight-forward and you get a wide spectrum of different questions.</p>
+
+<h2 id="what-i-think-we-learned">What I think we learned</h2>
+
+<ol>
+  <li>
+    <p>One thing that was constantly stressed was to have all the founders present (with more than 10% equity). We tried to re-schedule the interview for the US (our CTO couldn’t travel to EU at this time), but eventually, we had to get him with us through video. Everything worked well until we got to the meeting room and the 4G connection completely dropped, so we basically didn’t have him at the meeting.</p>
+  </li>
+  <li>
+    <p>Everything you speak about, prepare to be able to answer 5 whys to anything that is being asked. We were asked why our revenue vs MRR is so different, we were stuck explaining this for 3 minutes (if you put into a context, it’s like 30% of the interview).</p>
+  </li>
+</ol>
+
+<h2 id="why-we-didnt-get-accepted">Why we didn’t get accepted</h2>
+
+<p>It usually takes a few days to get the decision. Our interview was on Thursday and we got the email late Friday evening. Basically, if you are being accepted, you will get a call. If you’re not accepted, you will get an email with some valuable feedback.</p>
+
+<p><strong>We were not accepted for 2 reasons:</strong></p>
+
+<ol>
+  <li>
+    <p><strong>Traction:</strong> The whole year was flatlined and we failed to make it clear how we continue the growth trajectory. We had an impressing month to month growth when we applied, but 3 months is just not enough to show a predictable growth.</p>
+  </li>
+  <li>
+    <p><strong>Focus:</strong> It looks like we’re building 2 separate products. <a href="https://www.webarxsecurity.com/">WebARX</a> (the main security product) and <a href="https://plugbounty.com">Plugbounty</a> (bug bounty platform to crowdsource vulnerability research on open-source components). Even though they work hand-in-hand, we need to explain how we will pull it off.</p>
+  </li>
+</ol>
+
+<h2 id="to-be-continued">To be continued…</h2>
+
+<p>Today we protect more than 12,000 websites. Around ~3000 digital agencies and web developers use <a href="https://www.webarxsecurity.com/">WebARX</a> to protect their sites from the attacks against the third-party software components. 160+ white hat hackers back it up via <a href="https://plugbounty.com/">Plugbounty</a>.</p>
+
+<p>We continue to zoom in our focus on the main issue, grow and re-apply to YC S20 batch and make WebARX <em>“the next big thing in cyber-security you’re all going to hear about”.</em></p>
+
+<p>After all, we are the first company to run a bug bounty platform, specific for open-source web app components and literally have a community of hackers to proactively protect websites around the world.</p>
+:ET
