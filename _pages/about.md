@@ -5,17 +5,17 @@ permalink: /about/
 #image: '/assets/img/01.jpg'
 ---
 
-Hi, my name is Oliver Sild. I was born in 1993 in a small country known as Estonia. I'm living in a small city with less than 40,000 people.
+Hi, my name is Oliver Sild. I was born in 1993 in a small country known as Estonia. I'm currently living in a small city with less than 40,000 people.
 
 In primary school, I ran my own private servers for games and created dynamic SMS services to earn my first pocket-money. 
 
 Hacking in the games was a regular thing, so finding ways to address these issues quickly became my main interest.
 
-I studied IT and I'm a certified computer networking specialist. During my studies I also became a volunteer in Estonian Defence League’s Cyber Unit (Pärnu). 
+Later, I studied IT and I'm a certified computer networking specialist. During my studies I also became a volunteer in Estonian Defence League’s Cyber Unit (Pärnu). 
 
 I quit my studies and started my own company which focused on web development and website security.
 
-Few years later, I founded WebARX and co-founding a coworking space and kickstarted the start-up ecosystem in Pärnu, Estonia. 
+Few years later; I founded WebARX, co-founded a coworking space and kickstarted the start-up ecosystem in Pärnu, Estonia. 
 
 In late 2020, my co-founded NGO named CTF Pärnu also opened the first Hackerspace in Pärnu, Estonia.
 
