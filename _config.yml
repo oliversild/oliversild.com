@@ -1,6 +1,6 @@
-title: Oliver Sild – Cyber-security entrepreneur.
+title: Oliver Sild – Cyber-security & Open-source entrepreneur.
 logo:  # you can add own logo.
-description: Passionate cyber-security entrepreneur. Founder of @webarx_security and @plugbounty.
+description: Entrepreneur passionate about cyber-security & open-source technologies. Founder of Patchstack.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -8,10 +8,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Oliver Sild
-  image: '/assets/img/01.jpg'
-  job: "# whoami"
-  bio: Passionate cyber-security entrepreneur. Founder of @webarx_security and @plugbounty. Welcome to my personal blog!
-  email: oliversild@gmail.com
+  image: '/assets/img/01.png'
+  job: "Oliver Sild"
+  bio: Entrepreneur passionate about cyber-security & open-source technologies. Founder of Patchstack. Welcome to my personal page!
+  email: gmail@oliversild.com
 
 
 # Contact links

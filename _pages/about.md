@@ -15,7 +15,7 @@ Later, I studied IT and I'm a certified computer networking specialist. During m
 
 I quit my studies and started my own company which focused on web development and website security.
 
-Few years later; I founded WebARX, co-founded a coworking space and kickstarted the start-up ecosystem in Pärnu, Estonia. 
+Few years later; I founded Patchstack, co-founded a coworking space and kickstarted the start-up ecosystem in Pärnu, Estonia. 
 
 In late 2020, my co-founded NGO named CTF Pärnu also opened the first Hackerspace in Pärnu, Estonia.
 
@@ -26,12 +26,12 @@ Big things can be done from anywhere!
 ***
 
 > Oliver is the innovator who wakes up in the middle of the night after dreaming about a new startup idea to pitch the new idea to his team. He is extremely good at communication and motivating people. He is a strong believer in self-development and continuous learning. He's a great CEO who truly values his employees.
->> Agnes Talalaev (CMO at WebARX)
+>> Agnes Talalaev (CMO at Patchstack)
 
 ***
 
 # Things I'm proud of
-**TOP 10 Young Entrepreneur in Estonia (2020)** - I was selected as one of the TOP 10 nominates for the young entrepreneur of the year (2020) in Estonia.
+**TOP 5 Young Entrepreneur in Estonia (2020)** - I was selected as one of the TOP 10 nominates for the young entrepreneur of the year (2020) in Estonia.
 
 **Winner of Salto Growth Camp (2020)** - I participated in a startup competition where WebARX received the first place and I was voted to the second place as the most helpful founder in the programme.
 
@@ -48,6 +48,8 @@ Big things can be done from anywhere!
 ***
 
 # Things I've done
+**Welcome Patchstack! (2021)** - We merged WebARX and Plugbounty together and launched a vulnerability database for WordPress plugins. We also started partnerships with some of the largest hosting companies in the world.
+
 **Hackerspace Pärnu (2020)** - CTF Pärnu NGO opened the first Hackerspace in Pärnu, Estonia where cyber-security enthusiast can learn, practice and come together.
 
 **CTF Pärnu (2018)** - Co-founded an NGO which organizes cyber-security capture the flag events all over Estonia. Later opened the first Hackerspace in Pärnu, Estonia.

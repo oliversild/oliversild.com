@@ -7,6 +7,9 @@ permalink: /links/
 
 Here you can find different links to articles and web pages which I have found interesting.
 
+### From 2021
+[An Engineer's Hype-Free Observations on Web3 (and its Possibilities)](https://www.psl.com/feed-posts/web3-engineer-take)
+
 ### From 2020
 
 [Facebook switches to QUIC (21.10.2020)](https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions/)
