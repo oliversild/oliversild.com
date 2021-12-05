@@ -1,6 +1,6 @@
-title: Oliver Sild – Cyber-security & Open-source entrepreneur.
+title: Oliver Sild – cyber-security & open-source entrepreneur.
 logo:  # you can add own logo.
-description: Entrepreneur passionate about cyber-security & open-source technologies. Founder of Patchstack.
+description: Entrepreneur, passionate about cyber-security & open-source technologies. Founder of Patchstack.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,7 +10,7 @@ author:
   name: Oliver Sild
   image: '/assets/img/01.png'
   job: "Oliver Sild"
-  bio: Entrepreneur passionate about cyber-security & open-source technologies. Founder of Patchstack. Welcome to my personal page!
+  bio: Entrepreneur, passionate about cyber-security & open-source technologies. Founder of Patchstack. Welcome to my personal page!
   email: gmail@oliversild.com
 
 
@@ -18,8 +18,8 @@ author:
 contact:
   - name: Twitter
     link: https://twitter.com/oliversild
-#  - name: Facebook
-#    link: https://facebook.com/
+  - name: Linkedin
+    link: https://www.linkedin.com/in/oliversild/
 #  - name: Instagram
 #    link: https://instagram.com/
 
