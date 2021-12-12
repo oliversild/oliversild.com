@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Oliver Sild
-  image: '/assets/img/01.png'
+  image: '/assets/img/profile.gif'
   job: "Oliver Sild"
   bio: Entrepreneur, passionate about cyber-security & open-source technologies.
   email: gmail@oliversild.com
